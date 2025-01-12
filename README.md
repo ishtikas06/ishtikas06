@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Data Science<br>🎯 Goals: To post 10 projects till mid Feb<br>🎲 Fun fact: I'm a noob now</p>
+<p align="left">📚 I'm currently learning Data Science<br>🎯 Goals: To post 10 projects till mid Feb<br>🎲 Fun fact: I'm a Dancer</p>
 
 ###
 
