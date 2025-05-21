@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science.**
 
-- 📫 How to reach me **ishtikasinha3@gmail.com**
+- 📫 Reach me at **ishtikasinha3@gmail.com**
 
 - ⚡ Fun fact: **Your data is my toy, because I play with data.**
 
