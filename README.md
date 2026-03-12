@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishtika</h1>
 <h3 align="center">Looking for a way to make me better!!</h3>
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 Reach me at **ishtikasinha3@gmail.com**
 
